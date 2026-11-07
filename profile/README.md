@@ -50,4 +50,4 @@
 
 ## 许可证
 
-各仓库均为 [PolyForm Noncommercial 1.0.0](LICENSE) © 2026 paperlane-tools。
+各仓库均为 [GPL-3.0-only](LICENSE)；修改版须注明「基于 paperlane-tools/<仓库> 修改」，详见各仓库的 NOTICE。
