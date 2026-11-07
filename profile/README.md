@@ -50,4 +50,4 @@
 
 ## 许可证
 
-各仓库均为 [GPL-3.0-only](LICENSE)；修改版须注明「基于 paperlane-tools/<仓库> 修改」，详见各仓库的 NOTICE。
+各仓库均为 [GPL-3.0-only](LICENSE)；附加条款（署名 / 修改标注 / 名称使用 / 随附条款）见各仓库的 NOTICE。
