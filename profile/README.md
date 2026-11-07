@@ -50,4 +50,4 @@
 
 ## 许可证
 
-各仓库均为 [MIT](LICENSE) © 2026 paperlane-tools。
+各仓库均为 [PolyForm Noncommercial 1.0.0](LICENSE) © 2026 paperlane-tools。
