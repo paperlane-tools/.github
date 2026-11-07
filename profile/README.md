@@ -21,9 +21,14 @@
 | ③ | [bank-editor](https://github.com/paperlane-tools/bank-editor) | 题库编辑、拆分、合并、AI 整理 | Python / tkinter | 🚧 半成品 |
 | ④ | [android-client](https://github.com/paperlane-tools/android-client) | 在安卓上跑上面两个脚本的多开客户端 | Kotlin + WebView | 🚧 半成品 |
 | ⑤ | [pipeline-legacy](https://github.com/paperlane-tools/pipeline-legacy) | 最早的 Python 识图/判题流水线 | Python + Playwright | ⚠️ 仅验证 |
+| ⑥ | [android-quiz-skill](https://github.com/paperlane-tools/android-quiz-skill) | 安卓 App 里的答题技能（Agent Skill） | SKILL.md + bash | ✅ 可用 |
 
 > **pipeline-legacy 是早期验证版本，不是主推。** 日常使用请用 `quiz-helper`。
 > 两个「半成品」已经能粗略使用，但仍有已知问题；欢迎自行扩展或提交 PR。
+>
+> 答题技能 `android-quiz-skill` 的**前置技能**是通用控制
+> [`MC090610/android-shell-skill`](https://github.com/MC090610/android-shell-skill)（个人账号下），
+> 先装它再装答题技能。
 
 ## 几条小原则
 
